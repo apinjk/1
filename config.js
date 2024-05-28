@@ -3,13 +3,13 @@ const chalk = require('chalk')
 
 
 
-global.owner = ['']
-global.NomeDoBot = `null`
-global.premium = ['null']
+global.owner = ['6281231948641']
+global.NomeDoBot = `6281231948641`
+global.premium = ['6281231948641']
 global.travaSend = '10'
 global.packname = ''
 global.author = ''
-global.sessionName = ''
+global.sessionName = '1'
 global.prefa = ['','!','.']
 global.sp = '>'
 
