@@ -1,0 +1,24 @@
+🔎 CONSULTA IP 🔎
+
+• IP: 200.236.200.63
+• STATUS: SUCCESS
+• CONTINENTE: SOUTH AMERICA
+• PAIS: BRAZIL
+• CODE: BR
+• REGIAO: SP
+• NOME DA REGIAO: SP
+• CIDADE: CAMPINAS
+• DESTRITO: SEM INFORMAÇÂO
+• ZIP: 13000
+• LATITUDE: -22.895
+• LONTITUDE: -47.0439
+• OFFSET: -10800
+• MOEDA: BRL
+• ISP: Desktop Sigmanet Comunicação Multimídia SA
+• ORG: Desktop Sigmanet Comunicação Multimídia SA
+• AS: AS28649 Desktop Sigmanet Comunicação Multimídia SA
+• ASNAME: Desktop Sigmanet Comunicação Multimídia SA
+• REVERTER: 200-236-200-63.shared.desktop.com.br
+• MOVEL: false
+• PROXY: false
+• HOSTING: false
